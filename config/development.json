@@ -1,0 +1,13 @@
+{
+    "nodejs": {
+        "host": "localhost",
+        "port": 3000
+    },
+    "mongodb": {
+        // "url": "cluster0-shard-00-00-vjwn4.mongodb.net",
+        // "port": 27017,
+        "dbname": "tester",
+        "username": "not17033",
+        "password": "not17033"
+    }
+}

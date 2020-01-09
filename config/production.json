@@ -1,0 +1,13 @@
+{
+    "nodejs": {
+        "host": "localhost",
+        "port": 2541
+    },
+    "mongodb": {
+        "url": "xxxx",
+        "port": "xxx",
+        "dbname": "xxxxx",
+        "username": "xxxxx",
+        "password": "xxxxx"
+    }
+}
